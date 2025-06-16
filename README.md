@@ -32,7 +32,7 @@
 
 ## 📄 Resume & Articles
 
-📥 [Download My Resume](resume.pdf)  
+📥 [Download My Resume] 
 📝 Coming Soon: Articles and Blog Posts
 
 ---
