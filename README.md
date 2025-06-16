@@ -32,7 +32,7 @@
 
 ## 📄 Resume & Articles
 
-📥 [View My Resume](https://github.com/Meyrina-D/meyrina-d.github.io/raw/main/resume.pdf)
+📥 View My Resume https://github.com/Meyrina-D/meyrina-d.github.io/blob/main/Meyrina_D_Resume.pdf
 📝 Coming Soon: Articles and Blog Posts
 
 ---
